@@ -13,4 +13,4 @@
 
 # Contact
 [Email](vadym9209@gmail.com)
-[@vielsch](https://telegram.org/vielsch)
+[@vielsch](https://t.me/vielsch)
