@@ -8,6 +8,7 @@
 ![HTML5](https://shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://shields.io/badge/CSS3-blue?style=flat-square&logo=css&logoColor=white)
 ![JS](https://shields.io/badge/JS-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
 
 ## My statistic
 <div align=center>
