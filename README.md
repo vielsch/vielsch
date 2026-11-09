@@ -5,7 +5,7 @@
 ## I learn
 ![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
-![HTML](https://shields.io/badge/HTML-red?style=flat-square&logo=html&logoColor=white)
+![HTML](https://shields.io/badge/HTML-red?style=flat-square&logo=HTML&logoColor=white)
 ![CSS](https://shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white)
 ![JS](https://shields.io/badge/JS-yellow?style=flat-square&logo=js&logoColor=white)
 
