@@ -6,7 +6,7 @@
 ![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://shields.io/badge/CSS3-blue?style=flat-square&logo=css&logoColor=white)
 ![JS](https://shields.io/badge/JS-yellow?style=flat-square&logo=js&logoColor=white)
 
 ## My statistic
