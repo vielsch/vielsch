@@ -3,4 +3,4 @@
 </div>
 
 # I learn
-- [!C++](https://shields.io/C++-blue?style=flat-square&)
+- [!C++](https://shields.io/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
