@@ -12,5 +12,5 @@
 </div>
 
 # Contact
-- [Email](vadym9209@gmail.com)
-- [@vielsch](https://t.me/vielsch)
+- 📧 [Email](vadym9209@gmail.com)
+- 📨 [@vielsch](https://t.me/vielsch)
