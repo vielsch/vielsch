@@ -2,6 +2,8 @@
   <h1>Vielsch</h1>
 </div>
 
-# I learn
+# - I learn
 ![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
+
+# - My statistic
