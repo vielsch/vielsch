@@ -5,7 +5,7 @@
 ## I learn
 ![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
-![HTML](https://shields.io/badge/HTML-red&style=flat-square&logo=html&logoColor=white)
+![HTML](https://shields.io/badge/HTML-red?style=flat-square&logo=html&logoColor=white)
 
 ## My statistic
 <div align=center>
