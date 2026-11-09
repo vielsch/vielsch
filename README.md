@@ -3,4 +3,5 @@
 </div>
 
 # I learn
-- ![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
