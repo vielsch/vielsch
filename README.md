@@ -7,4 +7,6 @@
 ![C](https://shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 
 # My statistic
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vielsch&theme=transparent&hide_border=true" align=center>
+<div align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vielsch&theme=transparent&hide_border=true">
+</div>
